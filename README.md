@@ -2,8 +2,7 @@
     I am Vasya Salkov.
     I am interested in programming.
     I have YouTube channel (https://clck.ru/Vjjuf)
-    I am currently learn Python programming language.
-
+    I am currently learning different programming languages
 
 <!--
 **VasilSalkov/VasilSalkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
