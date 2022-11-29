@@ -25,6 +25,7 @@
 ![lua](https://camo.githubusercontent.com/4195587f81871f5e9c27d6769439f75e995e7f8d0c035250b74486bfa5b49f44/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c756126636f6c6f723d324332443732266c6f676f3d4c7561266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ### ⚙️ Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ### Front-End Development
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,6 +40,7 @@
 ![intel](https://camo.githubusercontent.com/b9c3d85df36b8f3776d8cf00387de41022c9fa3c82f894b289c69965f03cb4aa/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e74656c26636f6c6f723d303037314335266c6f676f3d496e74656c266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![macOS](https://camo.githubusercontent.com/2dbf48f1d4f42b9fb505af7afad8b6012f64d04219793309f814d59a33cab631/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6d61634f5326636f6c6f723d303030303030266c6f676f3d6d61634f53266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ## 📱 Smartphone Brands
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
