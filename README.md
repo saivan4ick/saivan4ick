@@ -17,7 +17,7 @@
 
 ### Languages
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![lua](https://camo.githubusercontent.com/4195587f81871f5e9c27d6769439f75e995e7f8d0c035250b74486bfa5b49f44/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c756126636f6c6f723d324332443732266c6f676f3d4c7561266c6f676f436f6c6f723d464646464646266c6162656c3d)
@@ -30,12 +30,14 @@
 
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![photoshop](https://camo.githubusercontent.com/da23e68967c3cf2d4c4b996f8f43cec1e31e8acc5debff00da314edd01e30c39/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d41646f62652b50686f746f73686f7026636f6c6f723d333141384646266c6f676f3d41646f62652b50686f746f73686f70266c6f676f436f6c6f723d464646464646266c6162656c3d)
-
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ## 🖥️ Workspace Setup
 ![intel](https://camo.githubusercontent.com/b9c3d85df36b8f3776d8cf00387de41022c9fa3c82f894b289c69965f03cb4aa/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e74656c26636f6c6f723d303037314335266c6f676f3d496e74656c266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![macOS](https://camo.githubusercontent.com/2dbf48f1d4f42b9fb505af7afad8b6012f64d04219793309f814d59a33cab631/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6d61634f5326636f6c6f723d303030303030266c6f676f3d6d61634f53266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
+## 📱 Smartphone Brands
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 ## 🔗 Links
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/VasilSalkov)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vasilsalkou@gmail.com)
