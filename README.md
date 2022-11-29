@@ -2,7 +2,7 @@
 ## 🚀 About Me
 👨‍💻 My name's Vasya Salkov, I live in Belarus. I am a programmer, blogger and composer.
 
-📚 My favorite book is: *ELON MUSK Tesla, SpaceX, and the Quest for a Fantastic Future*
+📚 My favorite book is: **ELON MUSK Tesla, SpaceX, and the Quest for a Fantastic Future**
 
 🎸 In my free time I write music in the program FL Studio 20, and release it on the net under the name **saivan**.
 
