@@ -38,6 +38,7 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ## 🖥️ Workspace Setup
 ![intel](https://camo.githubusercontent.com/b9c3d85df36b8f3776d8cf00387de41022c9fa3c82f894b289c69965f03cb4aa/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e74656c26636f6c6f723d303037314335266c6f676f3d496e74656c266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![macOS](https://camo.githubusercontent.com/2dbf48f1d4f42b9fb505af7afad8b6012f64d04219793309f814d59a33cab631/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6d61634f5326636f6c6f723d303030303030266c6f676f3d6d61634f53266c6f676f436f6c6f723d464646464646266c6162656c3d)
