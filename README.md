@@ -1,6 +1,8 @@
 ## 🚀 About Me
 👨‍💻 My name's Vasya Saivan, I live in Belarus. I am a programmer, blogger and composer.
+
 🎸 In my free time I write music in the program FL Studio 20, and release it on the net under the name **saivan**.
+
 ✈️ I love traveling around Europe.
 
 ## 🎮 I play
