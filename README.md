@@ -6,8 +6,7 @@
 ## 🎮 I play
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-## 🏆 My Profile Trophies
-![Saivan's github trophy](https://github-profile-trophy.vercel.app/?username=VasilSalkov&row=1)
+
 ## 🛠️ Skills
 
 ### Languages
