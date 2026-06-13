@@ -1,9 +1,27 @@
-# Hey, I am Vasil
-### I just write code for lots of things
-* 🌐 Currently, I am working on various code.
-### 📤 Contact with me through tg [@saivann](https://t.me/saivann) // **please, write a question right away**
-![badge](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saivan4ick&theme=discord_old_blurple)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saivan4ick&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
-## Devices
-* Main PC // AMD Ryzen 3 2200G with Radeon Vega 8 // 12 GB RAM // 240 GB SSD + 500 GB HDD
-* Samsung S20 FE (Snapdragon) // 128 GB // 6 GB RAM // One UI 8 Port // KernelSU Next Root
+<h1 align="center">🐬 Saivan / Versatile coder </h1>
+
+###
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=clion" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="svelte logo"  />
+  <img width="12" />
+</div>
+
+###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saivan4ick&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+</p>
+
+###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivan4ick&theme=tokyonight&hide_border=true">
+</p>
